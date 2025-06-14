@@ -17,8 +17,8 @@ A simple utility to interact with Google Drive. This project uses the Google Dri
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/drive-thing.git
-cd drive-thing
+git clone https://github.com/bravetiger01/Save-File-To-Drive.git
+cd Save-File-To-Drive
 ```
 
 ### 2. Install Dependencies
